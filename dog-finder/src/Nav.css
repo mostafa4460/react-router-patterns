@@ -1,0 +1,14 @@
+.Nav {
+    background-color: tomato;
+    height: 3rem;
+    line-height: 3rem;
+}
+
+.Nav a {
+    margin: 20px;
+    color: wheat;
+}
+
+.Nav a.active {
+    color: whitesmoke;
+}

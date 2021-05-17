@@ -1,0 +1,14 @@
+.Dog {
+    width: 100%;
+    border: 2px solid rgba(1, 122, 143, 0.767);
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.Dog-facts {
+    list-style: none;
+}
+
+.Dog-img {
+    width: 90%;
+}
