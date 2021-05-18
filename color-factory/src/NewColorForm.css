@@ -1,0 +1,24 @@
+.NewColorForm {
+    height: 100vh;
+    width: 100vw;
+    background-image: url('./assets/rainbow.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.NewColorForm-form {
+    position: relative;
+    top: 30%;
+    width: 50%;
+    height: 20%;
+    background-color: whitesmoke;
+    margin: auto;
+    border-radius: 30px;
+    padding-top: 100px;
+}
+
+.NewColorForm-field {
+    margin-bottom: 10px;
+    font-size: 1.4rem;
+}

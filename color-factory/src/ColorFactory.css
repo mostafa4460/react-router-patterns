@@ -1,0 +1,16 @@
+.ColorFactory-header {
+    overflow: hidden;
+    color: white;
+    background-color: darkslategray;
+    height: 185px;
+    line-height: 50px;
+}
+
+.ColorFactory-form-link {
+    font-size: 2rem;
+    color: white;
+}
+
+.ColorFactory-color-link {
+    display: block;
+}

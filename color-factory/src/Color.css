@@ -1,0 +1,11 @@
+.Color {
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+    font-size: 6rem;
+    color: white;
+}
+
+.Color a {
+    color: white;
+}
